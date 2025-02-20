@@ -1,6 +1,7 @@
 {
-  "name": "valentine2025",
+  "name": "moneyrequester",
   "version": "0.1.0",
+  "homepage": "https://azzou02.github.io/MoneyRequester",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
